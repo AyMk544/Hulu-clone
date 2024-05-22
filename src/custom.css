@@ -1,0 +1,13 @@
+.hero-section{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../hulu-background.jpg");
+}
+.circle{
+    /* box-shadow: 0 0 3px white; */
+    border: 1px white solid;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
